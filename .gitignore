@@ -52,3 +52,10 @@ simWorkspace/
 tmp/
 /archive.tar.gz
 *.out32
+
+
+# Dockerized build
+/.ivy2
+/.sbt
+/.bash*
+/.sudo_as_admin_successful
